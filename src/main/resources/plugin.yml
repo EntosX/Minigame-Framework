@@ -1,0 +1,9 @@
+name: Minigame-Framework
+version: "${project.version}"
+main: me.thelightmc.Minigame
+author: TheLightMC
+authors: [Entos6]
+description: A fast and easy framework to run minigames on.
+commands:
+   StartGame:
+      description: Fuck yo shit
